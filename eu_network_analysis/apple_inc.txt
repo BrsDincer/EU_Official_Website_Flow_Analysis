@@ -1,0 +1,17 @@
+aaplimg.com
+apple-dns.net
+apple-mapkit.com
+apple.com
+applemusic.com
+appstore.com
+beatsbydre.com
+cdn-apple.com
+icloud-content.com
+icloud.com
+itunes.com
+me.com
+mzstatic.com
+shazam.com
+shazamid.com
+swift.org
+webkit.org
